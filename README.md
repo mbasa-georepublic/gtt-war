@@ -1,6 +1,6 @@
 # Redmine GTT Deployment Files
 
-**WAR File** containing Redmine-GTT and a **PostgreSQL dumpfile** containg a Sample Redmine Configuration for fast deployment to Tomcat.
+**WAR File** containing Redmine-GTT and a **PostgreSQL dumpfile** containg a Sample Redmine Configuration for fast deployment to Tomcat. The WAR file was created using JRuby and Warbler.
 
 ## Prequisites
 
