@@ -22,7 +22,7 @@ createdb redmine
 pg_restore -d redmine redmine.dmp
 ```
 
-* copy the redmine.war into <Tomcat Dir>/webapps directory. Tomcat will automatically deploy this file. 
+* copy the redmine.war into ```<Tomcat Dir>/webapps``` directory. Tomcat will automatically deploy this file. 
 
 * wait for a minute or so in order for Tomcat to deploy completely. The Redmine application can be accessed afterwards using this url: 
   
